@@ -1,0 +1,12 @@
+{
+  "name": "silvana-lima-nails",
+  "version": "1.0.0",
+  "description": "Landing Page - Cursos de unha presenciais com Silvana Lima",
+  "scripts": {
+    "dev": "lite-server",
+    "start": "lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
